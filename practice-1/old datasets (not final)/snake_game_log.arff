@@ -1,0 +1,12 @@
+@relation 'ALL-weka.filters.unsupervised.attribute.Reorder-R1,2,4,5,6,7,8,3'
+
+@attribute is_new_game {True,False}
+@attribute score numeric
+@attribute snake_head_x numeric
+@attribute snake_head_y numeric
+@attribute food_x numeric
+@attribute food_y numeric
+@attribute snake_length numeric
+@attribute direction {UP,DOWN,LEFT,RIGHT}
+
+@data
